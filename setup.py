@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/jblancoperez/metrosaopaulo",
-    install_requires = ['requests==2.21.0'],
+    install_requires = ['requests==2.31.0'],
     packages=['metrosaopaulo'],
     classifiers=[
         "Programming Language :: Python :: 3",
